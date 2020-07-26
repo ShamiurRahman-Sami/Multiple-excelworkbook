@@ -1,11 +1,11 @@
 import pandas as pd
 
-excel1  = 'Apr-June20.xlsx'
-excel2  = 'Aug-Dec18.xlsx'
-excel3  = 'Jan-Jun19.xlsx'
-excel4  = 'Jan-Mar20.xlsx'
-excel5  = 'Oct-Dec19.xlsx'
-excel6  = 'Sep-Dec18.xlsx'
+excel1  = 'yourworkbookfilename.xlsx'
+excel2  = 'yourworkbookfilename2.xlsx'
+excel3  = 'yourworkbookfilename3.xlsx'
+excel4  = 'yourworkbookfilename4.xlsx'
+excel5  = 'yourworkbookfilename5.xlsx'
+excel6  = 'Syourworkbookfilename6.xlsx'
 
 
 df1 = pd.read_excel(excel1)
